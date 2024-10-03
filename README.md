@@ -1,4 +1,4 @@
-<center><img src="RobustCQA-10-3-2024.png" alt="RobustCQA dataset" width="500"/></center>
+<center><img src="RobustCQA-10-3-2024.png" alt="RobustCQA dataset" /></center>
 
 ## **Data for the RobustCQA dataset**
 #### *This repository contains the dataset and implementation details for the RobustCQA dataset, as mentioned in the paper [Unraveling the Truth: Do LLMs really Understand Charts? A Deep Dive into Consistency and Robustness](https://arxiv.org/abs/2407.11229).*
