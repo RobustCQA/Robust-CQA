@@ -1,0 +1,260 @@
+{
+    "general_figure_info": {
+        "figure_info": {
+            "bbox": {
+                "x": 103,
+                "y": 45,
+                "w": 622,
+                "h": 333
+            }
+        },
+        "y_axis": {
+            "label": {
+                "bbox": [
+                    {
+                        "x": 40,
+                        "y": 129,
+                        "w": 11,
+                        "h": 164.5
+                    }
+                ],
+                "text": "Growth in sales (March vs. February)"
+            },
+            "major_labels": {
+                "bboxes": [
+                    {
+                        "x": 65,
+                        "y": 363.5,
+                        "w": 28.0,
+                        "h": 35.5
+                    },
+                    {
+                        "x": 65,
+                        "y": 296.5,
+                        "w": 28.0,
+                        "h": 35.5
+                    },
+                    {
+                        "x": 65,
+                        "y": 230.5,
+                        "w": 28.0,
+                        "h": 35.5
+                    },
+                    {
+                        "x": 65,
+                        "y": 163.5,
+                        "w": 28.0,
+                        "h": 35.5
+                    },
+                    {
+                        "x": 65,
+                        "y": 97.5,
+                        "w": 28.0,
+                        "h": 35.5
+                    },
+                    {
+                        "x": 65,
+                        "y": 29.5,
+                        "w": 28.0,
+                        "h": 35.5
+                    }
+                ]
+            }
+        },
+        "x_axis": {
+            "major_labels": {
+                "bboxes": [
+                    {
+                        "x": 247,
+                        "y": 388,
+                        "h": 12,
+                        "w": 23.11767578125
+                    },
+                    {
+                        "x": 557,
+                        "y": 388,
+                        "h": 12,
+                        "w": 25.572265625
+                    }
+                ],
+                "values": [
+                    "Toys",
+                    "Baby"
+                ]
+            },
+            "label": {}
+        },
+        "legend": {
+            "bbox": {
+                "x": 165,
+                "y": 416,
+                "w": 429,
+                "h": 34
+            },
+            "items": [
+                {
+                    "model": "Sales value",
+                    "label": {
+                        "bbox": {
+                            "x": 194,
+                            "y": 428,
+                            "w": 65.705078125,
+                            "h": 14
+                        },
+                        "text": "Sales value"
+                    },
+                    "preview": {
+                        "bbox": {
+                            "x": 175,
+                            "y": 428,
+                            "w": 12,
+                            "h": 12
+                        }
+                    }
+                },
+                {
+                    "model": "Number of orders",
+                    "label": {
+                        "bbox": {
+                            "x": 292,
+                            "y": 428,
+                            "w": 101.0078125,
+                            "h": 14
+                        },
+                        "text": "Number of orders"
+                    },
+                    "preview": {
+                        "bbox": {
+                            "x": 273,
+                            "y": 428,
+                            "w": 12,
+                            "h": 12
+                        }
+                    }
+                },
+                {
+                    "model": "Value of shopping basket",
+                    "label": {
+                        "bbox": {
+                            "x": 431,
+                            "y": 428,
+                            "w": 144.703125,
+                            "h": 14
+                        },
+                        "text": "Value of shopping basket"
+                    },
+                    "preview": {
+                        "bbox": {
+                            "x": 412,
+                            "y": 428,
+                            "w": 12,
+                            "h": 12
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "models": [
+        {
+            "name": "Sales value",
+            "bboxes": [
+                {
+                    "x": 129,
+                    "y": 86,
+                    "w": 81,
+                    "h": 226
+                },
+                {
+                    "x": 440,
+                    "y": 246,
+                    "w": 81,
+                    "h": 66
+                }
+            ],
+            "colors": [
+                "#2876dd",
+                "#2876dd"
+            ],
+            "y": [
+                "34%",
+                "10%"
+            ],
+            "labels": [
+                "Toys",
+                "Baby"
+            ],
+            "x": [
+                "Toys",
+                "Baby"
+            ]
+        },
+        {
+            "name": "Number of orders",
+            "bboxes": [
+                {
+                    "x": 218,
+                    "y": 226,
+                    "w": 81,
+                    "h": 86
+                },
+                {
+                    "x": 529,
+                    "y": 226,
+                    "w": 81,
+                    "h": 86
+                }
+            ],
+            "colors": [
+                "#0f283e",
+                "#0f283e"
+            ],
+            "y": [
+                "13%",
+                "13%"
+            ],
+            "labels": [
+                "Toys",
+                "Baby"
+            ],
+            "x": [
+                "Toys",
+                "Baby"
+            ]
+        },
+        {
+            "name": "Value of shopping basket",
+            "bboxes": [
+                {
+                    "x": 308,
+                    "y": 193,
+                    "w": 81,
+                    "h": 119
+                },
+                {
+                    "x": 619,
+                    "y": 312,
+                    "w": 81,
+                    "h": 20
+                }
+            ],
+            "colors": [
+                "#bababa",
+                "#bababa"
+            ],
+            "y": [
+                "18%",
+                "-3%"
+            ],
+            "labels": [
+                "Toys",
+                "Baby"
+            ],
+            "x": [
+                "Toys",
+                "Baby"
+            ]
+        }
+    ],
+    "type": "v_bar"
+}

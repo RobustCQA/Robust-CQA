@@ -1,0 +1,149 @@
+{
+    "general_figure_info": {
+        "legend": {
+            "items": [
+                {
+                    "model": "Deal fairly with all sides",
+                    "label": {
+                        "bbox": {
+                            "x": 321,
+                            "y": 96,
+                            "w": 81,
+                            "h": 30
+                        },
+                        "text": "Deal fairly with all sides"
+                    }
+                },
+                {
+                    "model": "Tend to favor one side",
+                    "label": {
+                        "bbox": {
+                            "x": 200,
+                            "y": 99,
+                            "w": 83,
+                            "h": 29
+                        },
+                        "text": "Tend to favor one side"
+                    }
+                }
+            ]
+        },
+        "title": {
+            "bbox": {
+                "x": 0,
+                "y": 0,
+                "w": 417,
+                "h": 89
+            },
+            "text": "About eight-in-ten Americans think news coverage favors one side, more so among Republicans % of U.S. adults who say news organizations_ on political and social issues when presenting the news "
+        },
+        "figure_info": {
+            "bbox": {
+                "x": 5,
+                "y": 89,
+                "w": 410,
+                "h": 168
+            }
+        },
+        "x_axis": {
+            "major_labels": {
+                "bboxes": [
+                    {
+                        "x": 42,
+                        "y": 133,
+                        "w": 58,
+                        "h": 13
+                    },
+                    {
+                        "x": 24,
+                        "y": 194,
+                        "w": 76,
+                        "h": 14
+                    },
+                    {
+                        "x": 17,
+                        "y": 225,
+                        "w": 83,
+                        "h": 12
+                    }
+                ],
+                "values": [
+                    "U.S. adults",
+                    "Rep/Lean Rep",
+                    "Dem/Lean Dem"
+                ]
+            }
+        }
+    },
+    "models": [
+        {
+            "name": "Tend to favor one side",
+            "color": "orange",
+            "y": [
+                "79",
+                "91",
+                "69"
+            ],
+            "x": [
+                "U.S. adults",
+                "Rep/Lean Rep",
+                "Dem/Lean Dem"
+            ],
+            "bboxes": [
+                {
+                    "x": 166,
+                    "y": 134,
+                    "w": 24,
+                    "h": 12
+                },
+                {
+                    "x": 142,
+                    "y": 196,
+                    "w": 15,
+                    "h": 12
+                },
+                {
+                    "x": 186,
+                    "y": 226,
+                    "w": 15,
+                    "h": 11
+                }
+            ]
+        },
+        {
+            "name": "Deal fairly with all sides",
+            "color": "red",
+            "y": [
+                "20",
+                "0",
+                "29"
+            ],
+            "x": [
+                "U.S. adults",
+                "Rep/Lean Rep",
+                "Dem/Lean Dem"
+            ],
+            "bboxes": [
+                {
+                    "x": 325,
+                    "y": 134,
+                    "w": 25,
+                    "h": 12
+                },
+                {
+                    "x": 322,
+                    "y": 197,
+                    "w": 7,
+                    "h": 9
+                },
+                {
+                    "x": 352,
+                    "y": 226,
+                    "w": 16,
+                    "h": 12
+                }
+            ]
+        }
+    ],
+    "type": "h_bar"
+}
